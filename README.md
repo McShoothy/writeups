@@ -1,2 +1,4 @@
 # writeups
-thenixuchallenge.com nixuchallenge 2020 ACME phone
+1#
+Thenixuchallenge.com/c/ the nixuchallenge 2020 writeup
+
